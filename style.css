@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    background-color: rgb(55, 55, 55);
+    color: #faf5b0;
+    text-align: center;
+}
+
+h1{
+    font-size: 60px;
+}
+#valor{
+    font-size: 90px;
+    font-weight: bold;
+}
+
+.btn{
+    font-size: 25px;
+    border: none;
+    background-color: blue;
+    color: beige;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background-color: #faf5b0;
+    color: black;
+
+}
+
